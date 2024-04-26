@@ -2,9 +2,9 @@
 
 class API:
     def func1(self):
-        raise NotImplementedError()
+        print("func1")
 
     def func2(self):
-        raise NotImplementedError()
+        print("func2")
 
 
